@@ -1,6 +1,6 @@
 # Atlas Economy
 
-Este é um projeto de site para a Atlas Economy, desenvolvido com HTML, CSS e JavaScript. O site inclui várias seções, como início, sobre nós, serviços, clientes e contato.
+Este é um projeto de site para a Atlas Economy(empresa ficticia), desenvolvido com HTML, CSS e JavaScript. O site inclui várias seções, como início, sobre nós, serviços, clientes e contato.
 ## Demonstração
 Explore o projeto [clicando aqui](https://jeanclarocode.github.io/atlas_economy/)!
 
